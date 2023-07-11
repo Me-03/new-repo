@@ -1,0 +1,14 @@
+ Volume in drive C is Windows 
+ Volume Serial Number is F6C5-D3EA
+
+ Directory of C:\Users\mittal.tannya\Desktop\project_1
+
+11-07-2023  13:34    <DIR>          .
+11-07-2023  13:34    <DIR>          ..
+04-07-2023  18:08               403 index1.html
+11-07-2023  13:34                 0 new.txt
+04-07-2023  18:07               382 test1.txt
+11-07-2023  13:19               498 test2.html
+06-07-2023  11:39               450 test2.txt
+               5 File(s)          1,733 bytes
+               2 Dir(s)  339,715,973,120 bytes free
